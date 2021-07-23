@@ -1,0 +1,14 @@
+body {
+    background: url('https://media.istockphoto.com/videos/retro-cartoonish-background-video-id1008354980?s=640x640') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.Game-Cards {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 100px;
+    opacity: 1;
+}

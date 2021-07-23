@@ -1,0 +1,26 @@
+body {
+    color: #000;
+}
+h1{
+    margin: 10px;
+    color: #222E50;
+}
+.game-detail {
+    background-color: #007991;;
+    border: 1px solid #fff;
+    border-radius: 10px;
+}
+.btn-back{
+    background-color: #222E50;
+    margin-right: 90%;
+
+}
+.btn-back:hover{
+    background-color: #222E50;
+}
+
+.posters{
+    margin-top: 30px;
+    border: 1px solid #c2c2c2;
+    border-radius: 10px;
+}

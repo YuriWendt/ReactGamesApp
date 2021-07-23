@@ -1,0 +1,18 @@
+.gamelist{
+    background-color: #007991;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000;
+    text-align: center;
+    margin: 30px;
+}
+.btn-detail{
+    background-color: #222E50;
+    width: 150px;
+}
+.btn-detail:hover{
+    background-color: #222E50;
+}
+.poster {
+    width: 100%;
+    height: 200px;
+}
